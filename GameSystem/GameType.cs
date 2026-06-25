@@ -10,7 +10,9 @@ namespace GameSystem
     {
         [Description("大富翁遊戲")]
         Monopoly = 1,
-        [Description("PK遊戲")]
-        PK
+        [Description("PK 遊戲")]
+        PK,
+        [Description("RPG 遊戲")]
+        RPG
     }
 }
